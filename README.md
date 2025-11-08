@@ -1,6 +1,12 @@
-### Hi there 👋 My name is Henry!
-- 😄 Pronouns: he/him
+### Hi! I'm Henry! (he/him)
 - Email: hheyden@macalester.edu
+- Current Senior at Macalester College, studying Linguistics and Computer Science
+
+The following are my most recent, best projects:
+- [The research code for my most recent project, exploring the effect of linguistic factors on tonal production in White Hmong](https://github.com/henry-h22/white-hmong-gams)
+- [A speech synthesizer that works in your DAW!](https://github.com/henry-h22/vst_speechSynth)
+- [Script selection code for a unit selection synthesizer](https://github.com/henry-h22/Script_Selection)
+- 
 <!--
 **henry-h22/henry-h22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
